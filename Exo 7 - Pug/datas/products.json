@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Playstation one",
+      "price": 199.99,
+      "category": "Old school gaming"
+    },
+    {
+      "name": "Super NES",
+      "price": 189.99,
+      "category": "Old school gaming"
+    },
+    {
+      "name": "Mr. Propre",
+      "price": 12.99,
+      "category": "Produit du quotidien"
+    }
+  ]
