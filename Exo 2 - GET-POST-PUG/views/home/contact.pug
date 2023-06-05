@@ -1,0 +1,19 @@
+extends ../shared/layout.pug
+
+block content 
+    h1 Formulaire de contact 
+    form(method='post')
+        div 
+            label(for="pseudo") Pseudo 
+            input#pseudo(type="text", name="pseudo", value=data.pseudo)
+            if errors.pseudo 
+                span.error Le pseudo est obligatoire !
+
+        div 
+            label(for="message") Message 
+            textarea#pseudo(name="message") #{data.message}
+            if errors.message
+                span.error Vous avez oublié le message 
+
+        div 
+            button(type="submit") Envoyer

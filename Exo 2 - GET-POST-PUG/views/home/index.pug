@@ -1,0 +1,14 @@
+extends ../shared/layout.pug
+
+block content 
+    h1 Page d'acceuil 
+    p Nous sommes le #{dateOfDay}
+    p Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore minus nostrum animi aperiam ex voluptatum rerum dicta quam, modi accusantium repellat unde, distinctio nesciunt eveniet est sapiente porro laborum beatae!
+
+    h2.example Liste de personnage 
+    ul 
+        each person in people 
+            li= person.firstname + ' ' + person.lastname 
+
+    h3 Images 
+    img(src="/assets/della.jpg", alt="Della Duck")

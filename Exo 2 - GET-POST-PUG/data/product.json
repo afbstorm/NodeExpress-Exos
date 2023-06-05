@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Table",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 99.99,
+        "inPromo": false,
+        "categories": ["Meuble"],
+        "image": "table.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chaise",
+        "desc": "Neque, animi deleniti voluptatibus adipisci cupiditate distinctio iste fugiat? Molestiae mollitia perspiciatis explicabo est itaque, ipsa, quibusdam reiciendis, sed earum magni iure.",
+        "price": 27,
+        "inPromo": false,
+        "categories": ["Meuble"],
+        "image": "chaise.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Stylo",
+        "desc": null,
+        "price": 1.3,
+        "inPromo": true,
+        "categories": ["Accessoire de bureau"],
+        "image": "stylo.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Crayon",
+        "desc": "Crayon noir H3",
+        "price": 2,
+        "inPromo": false,
+        "categories": ["Accessoire de bureau", "Accessoire de dessin"],
+        "image": "crayon.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Câble RJ45 - 10m",
+        "desc": "RJ45 est le nom usuel et exact du connecteur modulaire (en) 8P8C (8 positions et 8 contacts électriques) utilisé couramment pour les connexions Ethernet, et pour les connecteurs téléphoniques. ",
+        "price": 29.99,
+        "inPromo": false,
+        "categories": [ "Composant électronique"],
+        "image": "rj45.jpg"
+    }
+]
