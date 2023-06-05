@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "firstname": "Zaza",
+        "lastname": "Vanderquack",
+        "serie": ["La bande à Picsou"]
+    },
+    {
+        "id": 2,
+        "firstname": "Della",
+        "lastname": "Duck",
+        "serie": [ "La bande à Picsou"]
+    },
+    {
+        "id": 3,
+        "firstname": "Balthazar",
+        "lastname": "Picsou",
+        "serie": [ "La bande à Picsou"]
+    },
+    {
+        "id": 4,
+        "firstname": "Mickey",
+        "lastname": "Mouse",
+        "serie": ["Mickey et ses amis"]
+    },
+    {
+        "id": 5,
+        "firstname": "Minnie",
+        "lastname": "Mouse",
+        "serie": ["Mickey et ses amis"]
+    },
+    {
+        "id": 6,
+        "firstname": "Donald",
+        "lastname": "Duck",
+        "serie": ["Mickey et ses amis", "La bande à Picsou"]
+    }
+]
